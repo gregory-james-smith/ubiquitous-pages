@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# UBIQUITOUS
 
-You can use the [editor on GitHub](https://github.com/gregory-james-smith/ubiquitous-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Covers all Latex, typesetting or book setting projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Examples
 
-### Markdown
+This is the list of example projects to study or understand specific aspects of Latex, typesetting or book setting.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Example project                                                             | Objective                     |
+|-----------------------------------------------------------------------------|-------------------------------|
+| [lettrine-example](https://github.com/gregory-james-smith/lettrine-example) | Typesetting dropped capitcals |
 
-```markdown
-Syntax highlighted code block
+## Styles
 
-# Header 1
-## Header 2
-### Header 3
+Projects for developing Latex styles for generating books and articles.
 
-- Bulleted
-- List
+| Style      | Book                                                                      | Article  |
+|------------|---------------------------------------------------------------------------|----------|
+| Reimagined | [reimagined-book](https://github.com/gregory-james-smith/reimagined-book) |          |
+|            |                                                                           |          |
 
-1. Numbered
-2. List
+### Reimagined
 
-**Bold** and _Italic_ and `Code` text
+Traditional book setting and type setting style based on books from medieval and early printing press periods.
 
-[Link](url) and ![Image](src)
-```
+### Book
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A large document with multiple parts and chapters.
 
-### Jekyll Themes
+### Article
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gregory-james-smith/ubiquitous-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Articles can be moved to become chapters in a book.
