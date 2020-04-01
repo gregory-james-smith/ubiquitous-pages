@@ -23,6 +23,9 @@ Projects for developing Latex styles for generating books and articles. These st
 
 Traditional book setting and type setting style based on books from medieval and early printing press periods.
 
+Inspiration:
+- [Gutenberg Bible](https://en.wikipedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg)
+
 ### Book
 
 A large document with multiple parts and chapters.
