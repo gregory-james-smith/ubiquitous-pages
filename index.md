@@ -12,7 +12,7 @@ This is the list of example projects to study or understand specific aspects of 
 
 ## Styles
 
-Projects for developing Latex styles for generating books and articles.
+Projects for developing Latex styles for generating books and articles. These styles are intended to be shared across and used by multiple documents.
 
 | Style      | Book                                                                      | Article  |
 |------------|---------------------------------------------------------------------------|----------|
