@@ -33,3 +33,18 @@ A large document with multiple parts and chapters.
 ### Article
 
 Articles can be moved to become chapters in a book.
+
+### Differences between book and article
+
+| Article | Book |
+|---------|------|
+| No chapters or parts | Can have chapters and parts |
+| Sections and subsections are not numbered | Sections and subsections are numbered |
+| No preamble or Table of Contents | Preamble and Table of Contents |
+| No front matter or title page | Frontmatter and title page |
+| No backmatter or appendixes | Backmatter and appendixes |
+| Figures and tables are numbered in order | Figires and tables are number by chapter and then in order |
+| Page Right layout with margin on right | Two Page Right layout with margins on outside |
+
+Both contain:
+* References and bibliography
