@@ -46,7 +46,8 @@ Articles can be moved to become chapters in a book.
 | Figures and tables are numbered in order | Figires and tables are number by chapter and then in order |
 | Page Right layout with margin on right | Two Page Right layout with margins on outside |
 
-Both have:
+### Similarities between book and article
+
 * References
 * Bibliography
 * The same, or similar, page layout and proportions
