@@ -8,7 +8,7 @@ This is the list of example projects to study or understand specific aspects of 
 
 | Example project                                                             | Objective                     |
 |-----------------------------------------------------------------------------|-------------------------------|
-| [lettrine-example](https://github.com/gregory-james-smith/lettrine-example) | Typesetting dropped capitcals |
+| [lettrine-example](https://github.com/gregory-james-smith/lettrine-example) | Typesetting dropped capitals. Building with latexmk and GitHub actions |
 
 ## Styles
 
@@ -46,5 +46,11 @@ Articles can be moved to become chapters in a book.
 | Figures and tables are numbered in order | Figires and tables are number by chapter and then in order |
 | Page Right layout with margin on right | Two Page Right layout with margins on outside |
 
-Both contain:
-* References and bibliography
+Both have:
+* References
+* Bibliography
+* The same, or similar, page layout and proportions
+* Footnotes
+* Marginalia
+* Tables, diagrams and pictures with captions
+* Page numbers
