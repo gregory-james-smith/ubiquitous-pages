@@ -8,7 +8,7 @@ This is the list of example projects to study or understand specific aspects of 
 
 | Example project                                                             | Objective                     |
 |-----------------------------------------------------------------------------|-------------------------------|
-| [lettrine-example](https://github.com/gregory-james-smith/lettrine-example) | Typesetting dropped capitals. Building with latexmk and GitHub actions |
+| [lettrine-example](https://github.com/gregory-james-smith/lettrine-example) | Typesetting dropped capitals. Building with latexmk and GitHub actions. Using 8pt EB-Garamond font. |
 
 ## Styles
 
