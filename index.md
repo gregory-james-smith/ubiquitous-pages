@@ -21,10 +21,16 @@ Projects for developing Latex styles for generating books and articles. These st
 
 ### Reimagined
 
-Traditional book setting and type setting style based on books from medieval and early printing press periods.
+Traditional book setting and type setting style based on books from medieval and early printing press periods and inspired by classical art.
 
 Inspiration:
 - [Gutenberg Bible](https://en.wikipedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg)
+
+### Other ideas
+
+* Contemporary clean style using Helventica Neue
+* Style of a fusion of modern calligraphy and blackletter fonts inspired by old books and Islamic calligraphy
+* Decorative document using Copperplate lettering
 
 ## Articles and books
 
