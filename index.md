@@ -26,6 +26,8 @@ Traditional book setting and type setting style based on books from medieval and
 Inspiration:
 - [Gutenberg Bible](https://en.wikipedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg)
 
+## Articles and books
+
 ### Book
 
 A large document with multiple parts and chapters.
